@@ -7,7 +7,7 @@ To use the Text-to-Speech script, follow these steps:
 Create a new text file named "_content.txt" in the same directory as the script file.
 Open the "_content.txt" file and add the text that you want to convert to speech.
 Save and close the "_content.txt" file.
-Run the script by executing the following command in your command prompt or terminal: python text_to_speech.py
+Run the script text-to-speech.exe
 The script will generate an MP3 file named "#sample_YYYY-MM-DD_HH-MM-SS.mp3" in the same directory as the script file, where "YYYY-MM-DD_HH-MM-SS" represents the current date and time.
 
 ##Customization
